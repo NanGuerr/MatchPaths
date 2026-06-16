@@ -23,10 +23,9 @@
   **Vehículos Marítimos:** (Se desbloquea tras superar el Nivel 1\) 🚢  
   **Vehículos Aéreos:** (Se desbloquea tras superar el Nivel 2\) ✈️  
 
-* **Mecánica de Juego Avanzada:** Permite descubrir hasta **3 cartas simultáneamente**. Si hay un par dentro de las 3, se valida y se mantiene visible, optimizando el flujo de juego.  
+* **Mecánica de Juego:** Permite descubrir hasta **3 cartas simultáneamente**. Si hay un par dentro de las 3, se valida y se mantiene visible, optimizando el flujo de juego.  
 * **Feedback Inmediato:** Efectos visuales de resaltado verde para aciertos, sonido envolvente y mensajes motivadores dinámicos.  
-* **Ambiente Personalizable:** \- Botón de **Modo Oscuro/Claro** para mayor comodidad visual.  
-  * Música de fondo suave con opción de silenciar (Mute).  
+* **Ambiente Personalizable:** Botón de **Modo Oscuro/Claro** para mayor comodidad visual. Música suave con opción de Mute.  
 * **Estadísticas en Vivo:** Contador de intentos y cronómetro integrados para fomentar la autosuperación.  
 * **Celebración Final:** Pantalla de victoria con efecto de confeti y tonos dorados al completar cada nivel.
 
@@ -44,19 +43,16 @@
 2. Haz clic en los bloques para revelar los emojis ocultos.  
 3. Si encuentras un par (ya sea en un grupo de 2 o 3 cartas abiertas), este se iluminará en verde y permanecerá descubierto.  
 4. Si las cartas no coinciden, se ocultarán nuevamente tras un breve periodo.  
-5. ¡Supera el reto en el menor tiempo y con el menor número de intentos posible para desbloquear el siguiente nivel\!
+5. ¡Supera el reto en el menor tiempo y con el menor número de intentos posible para desbloquear el siguiente nivel!
 
-## **🚀 Instalación y Ejecución**
+## 🚀 **Ejecución Local**
 
-Si deseas probar el proyecto localmente:
+Para probar el proyecto en tu entorno local de forma inmediata y sin configuraciones complejas, sigue estos pasos:
 
-1. Clona el repositorio:  
-   git clone 
+1. **Obtener los archivos:** Clona este repositorio en tu máquina o descarga el código fuente en formato ZIP y descomprime su contenido.
+2. **Iniciar la aplicación:** Navega hasta la raíz del proyecto, localiza el archivo `index.html` y ábrelo directamente con tu navegador web de preferencia (Chrome, Firefox, Edge, Safari).
 
-2. Instala las dependencias:  
-   npm install
-
-3. Inicia el servidor de desarrollo:  
-   npm run dev
+> [!IMPORTANT]
+> Al tratarse de una aplicación basada puramente en el lado del cliente (*client-side*), no requiere de la instalación de dependencias pesadas ni del despliegue de servidores locales para su funcionamiento base.
 
 *Desarrollado como una herramienta interactiva para el entrenamiento mental y la diversión.*
