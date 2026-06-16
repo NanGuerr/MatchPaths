@@ -1,4 +1,4 @@
-# 🧠 [MatchPaths]
+# 🎮 [MatchPaths]
 
 <p align="center"><img src="https://github.com/NanGuerr/MatchPaths/blob/main/MatchPaths-eng.png?raw=true" width="30%"></p>
 
