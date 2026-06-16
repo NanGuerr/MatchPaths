@@ -2,7 +2,7 @@
 
 <p align="center"><img src="https://github.com/NanGuerr/MatchPaths/blob/main/MatchPaths-eng.png?raw=true" width="30%"></p>
 
-> Un juego de memoria interactivo diseñado para poner a prueba la retención visual y la agilidad mental. 
+> *Un juego de memoria interactivo diseñado para poner a prueba la retención visual y la agilidad mental, para niños.*
 
 [![Estado del Proyecto](https://img.shields.io/badge/Estado-Terminado-success)]()
 [![Licencia](https://img.shields.io/badge/Licencia-MIT-blue)]()
