@@ -1,6 +1,6 @@
 # 🧠 [MatchPaths]
 
-![Banner del Proyecto](https://github.com/NanGuerr/MatchPaths/blob/main/MatchPaths-eng.png?raw=true)
+<p align="center"><img src="https://github.com/NanGuerr/MatchPaths/blob/main/MatchPaths-eng.png?raw=true" width="80%"></p>
 
 > Un juego de memoria interactivo diseñado para poner a prueba la retención visual y la agilidad mental. 
 
