@@ -1,3 +1,16 @@
+# 🧠 [MatchPaths]
+
+![Banner del Proyecto](assets/img/banner-o-captura-principal.png)
+
+> Un juego de memoria interactivo diseñado para poner a prueba la retención visual y la agilidad mental. 
+
+[![Estado del Proyecto](https://img.shields.io/badge/Estado-Terminado-success)]()
+[![Licencia](https://img.shields.io/badge/Licencia-MIT-blue)]()
+
+## 📖 Descripción del Proyecto
+
+[MatchPaths] es una aplicación interactiva donde los jugadores deben encontrar pares de cartas ocultas en el menor tiempo y con la menor cantidad de movimientos posibles. Este proyecto fue desarrollado para aplicar conceptos de lógica de programación, manejo del DOM y diseño de interfaces de usuario.
+
 # **Match Paths: Find your way in air, sea & land\! 🚗🚢✈️**
 
 **Match Paths** es un microjuego interactivo de entrenamiento cognitivo diseñado para mejorar la concentración y la memoria a corto plazo. A través de una experiencia lúdica y visualmente atractiva, los usuarios deben emparejar diferentes tipos de vehículos en tres niveles temáticos progresivos.
@@ -19,11 +32,11 @@
 
 ## **🛠️ Tecnologías Utilizadas**
 
-* **React.js:** Para la lógica de componentes y gestión de estados (Hooks como useState, useEffect).  
-* **Tailwind CSS:** Para un diseño responsivo, moderno y animaciones fluidas.  
-* **Lucide React:** Set de iconos minimalistas.  
-* **Web Audio API:** Sintetizador de sonido personalizado para efectos y música sin dependencias externas.  
-* **Animaciones CSS3:** Efectos de volteo de cartas (3D perspective) y transiciones de pantalla.
+* **[React.js]** Para la lógica de componentes y gestión de estados (Hooks como useState, useEffect).  
+* **[Tailwind CSS]** Para un diseño responsivo, moderno y animaciones fluidas.
+* **[Lucide React]** Set de iconos minimalistas.
+* **[Web Audio API]** Sintetizador de sonido personalizado para efectos y música sin dependencias externas.  
+* **[Animaciones CSS3]** Efectos de volteo de cartas (3D perspective) y transiciones de pantalla.
 
 ## **🧠 Instrucciones de Juego**
 
