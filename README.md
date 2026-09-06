@@ -57,4 +57,4 @@ Para probar el proyecto en tu entorno local de forma inmediata y sin configuraci
 
 *Desarrollado como una herramienta interactiva para el entrenamiento mental y la diversión.* 
 > [!NOTE]
-> *[Mini juego 🤖 ](https://studio.code.org/es/c/2524337778?qr=true) online 💚*
+> *[Mini juego](https://studio.code.org/es/c/2524337778?qr=true)  🤖 online 💚*
