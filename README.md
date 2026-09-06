@@ -55,4 +55,6 @@ Para probar el proyecto en tu entorno local de forma inmediata y sin configuraci
 > [!IMPORTANT]
 > Al tratarse de una aplicación basada puramente en el lado del cliente (*client-side*), no requiere de la instalación de dependencias pesadas ni del despliegue de servidores locales para su funcionamiento base.
 
-*Desarrollado como una herramienta interactiva para el entrenamiento mental y la diversión.*
+*Desarrollado como una herramienta interactiva para el entrenamiento mental y la diversión.* 
+> [!NOTE]
+> [Otro mini juego 🤖](https://studio.code.org/es/c/2524337778?qr=true)
