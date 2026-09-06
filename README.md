@@ -52,7 +52,6 @@ Para probar el proyecto en tu entorno local de forma inmediata y sin configuraci
 1. **Obtener los archivos:** Clona este repositorio en tu máquina o descarga el código fuente en formato ZIP y descomprime su contenido.
 2. **Iniciar la aplicación:** Navega hasta la raíz del proyecto, localiza el archivo `index.html` y ábrelo directamente con tu navegador web de preferencia (Chrome, Firefox, Edge, Safari).
 
-> [!IMPORTANT]
 > Al tratarse de una aplicación basada puramente en el lado del cliente (*client-side*), no requiere de la instalación de dependencias pesadas ni del despliegue de servidores locales para su funcionamiento base.
 
 *Desarrollado como una herramienta interactiva para el entrenamiento mental y la diversión.* 
